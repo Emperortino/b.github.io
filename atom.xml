@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Fun</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://tofunny.club/"/>
+  <updated>2020-06-02T07:51:53.057Z</updated>
+  <id>http://tofunny.club/</id>
+  
+  <author>
+    <name>Valent</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Sublime</title>
+    <link href="http://tofunny.club/2020/06/02/sublime/"/>
+    <id>http://tofunny.club/2020/06/02/sublime/</id>
+    <published>2020-06-02T03:52:40.000Z</published>
+    <updated>2020-06-02T07:51:53.057Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Sublime3-安装Package-Control&quot;&gt;&lt;a href=&quot;#Sublime3-安装Package-Control&quot; class=&quot;headerlink&quot; title=&quot;Sublime3 安装Package
+        
+      
+    
+    </summary>
+    
+    
+      <category term="教程" scheme="http://tofunny.club/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="sublime" scheme="http://tofunny.club/tags/sublime/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://tofunny.club/2020/04/13/hello-world/"/>
+    <id>http://tofunny.club/2020/04/13/hello-world/</id>
+    <published>2020-04-13T13:09:37.428Z</published>
+    <updated>2020-04-13T13:56:57.948Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="aaaa" scheme="http://tofunny.club/categories/aaaa/"/>
+    
+    
+      <category term="aaaaa" scheme="http://tofunny.club/tags/aaaaa/"/>
+    
+  </entry>
+  
+</feed>

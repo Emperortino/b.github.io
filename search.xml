@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Sublime</title>
+      <link href="/2020/06/02/sublime/"/>
+      <url>/2020/06/02/sublime/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Sublime3-安装Package-Control"><a href="#Sublime3-安装Package-Control" class="headerlink" title="Sublime3 安装Package Control"></a>Sublime3 安装Package Control</h1><h3 id="1：sublime下载"><a href="#1：sublime下载" class="headerlink" title="1：sublime下载"></a>1：sublime下载</h3><p> 进入官网,下载<a href="https://www.sublimetext.com/3" target="_blank" rel="noopener">sublime</a>  </p><h3 id="2-package-control插件"><a href="#2-package-control插件" class="headerlink" title="2: package control插件"></a>2: package control插件</h3><ol><li><p>下载package control插件<br>下载: <a href="https://github.com/wbond/package_control" target="_blank" rel="noopener"><code>package contro</code></a><br>点击右上角的<code>Clone or download</code>按钮，然后选择<code>Download ZIP</code><br><img src="https://cdn.jsdelivr.net/gh/Emperortino/CDN2/img/sublime/1.png" alt="down"></p></li><li><p>安装<br>将下载好的文件解压，重命名为<code>Package Control</code><br>在菜单栏中点击<code>Preferences &gt; Browe Packages...</code>，打开一个文件夹，复制刚才的<code>Package Control</code>文件至此目录下。<br><img src="https://cdn.jsdelivr.net/gh/Emperortino/CDN2/img/sublime/2.png" alt="安装"></p></li></ol><h3 id="3：-package-control使用失败"><a href="#3：-package-control使用失败" class="headerlink" title="3： package control使用失败"></a>3： package control使用失败</h3><ol><li><p>打开<code>Settings-User</code><br><img src="https://cdn.jsdelivr.net/gh/Emperortino/CDN2/img/sublime/3.png" alt="User"></p></li><li><p>添加如下内容<br><img src="https://cdn.jsdelivr.net/gh/Emperortino/CDN2/img/sublime/4.png" alt="channels"></p></li><li><p>也可以将channel文件下载下来，下面的路径则变为自己文件所在的路径</p></li><li><p>在菜单中点击<code>Preferences</code>，若出现<code>Package Settings</code>和<code>package control</code>选项，就说明安装<code>Package Control</code>成功了。</p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> sublime </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2020/04/13/hello-world/"/>
+      <url>/2020/04/13/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> aaaa </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> aaaaa </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
