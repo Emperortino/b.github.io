@@ -491,20 +491,20 @@
                 
                 
                 
-                <a href="/categories/%E6%95%99%E7%A8%8B/" title="教程: 1">
+                <a href="/categories/%E5%AD%A6%E4%B9%A0/" title="学习: 3">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            style="background-color: #F9EBEA;">教程
-                        <span class="tag-length">1</span>
+                            style="background-color: #F9EBEA;">学习
+                        <span class="tag-length">3</span>
                     </span>
                 </a>
                 
                 
-                <a href="/categories/aaaa/" title="aaaa: 1">
+                <a href="/categories/%E6%95%99%E7%A8%8B/" title="教程: 3">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            style="background-color: #F5EEF8;">aaaa
-                        <span class="tag-length">1</span>
+                            style="background-color: #F5EEF8;">教程
+                        <span class="tag-length">3</span>
                     </span>
                 </a>
                 
@@ -528,19 +528,64 @@
             <div class="tag-chips">
                 
                 
-                <a href="/tags/sublime/" title="sublime: 1">
+                <a href="/tags/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/" title="算法设计与分析: 2">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            data-tagname="sublime" style="background-color: #F9EBEA;">sublime
+                            data-tagname="算法设计与分析" style="background-color: #F9EBEA;">算法设计与分析
+                        <span class="tag-length">2</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/JET-BRAINS/" title="JET-BRAINS: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="JET-BRAINS" style="background-color: #F5EEF8;">JET-BRAINS
                         <span class="tag-length">1</span>
                     </span>
                 </a>
                 
                 
-                <a href="/tags/aaaaa/" title="aaaaa: 1">
+                <a href="/tags/%E7%A0%B4%E8%A7%A3/" title="破解: 3">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            data-tagname="aaaaa" style="background-color: #F5EEF8;">aaaaa
+                            data-tagname="破解" style="background-color: #D5F5E3;">破解
+                        <span class="tag-length">3</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/" title="操作系统: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="操作系统" style="background-color: #E8F8F5;">操作系统
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/Linux/" title="Linux: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="Linux" style="background-color: #FEF9E7;">Linux
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/Sandboxie/" title="Sandboxie: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="Sandboxie" style="background-color: #F8F9F9;">Sandboxie
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/sublime/" title="sublime: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="sublime" style="background-color: #82E0AA;">sublime
                         <span class="tag-length">1</span>
                     </span>
                 </a>
@@ -587,7 +632,7 @@
                     color: '#3C4858'
                 }
             },
-            indicator: [{"name":"教程","max":2},{"name":"aaaa","max":2}],
+            indicator: [{"name":"学习","max":6},{"name":"教程","max":6}],
             nameGap: 5,
             center: ['50%','55%'],
             radius: '66%'
@@ -598,7 +643,7 @@
             itemStyle: {normal: {areaStyle: {type: 'default'}}},
             data : [
                 {
-                    value : [1,1],
+                    value : [3,3],
                     name : '文章分类数量'
                 }
             ]
@@ -673,7 +718,7 @@
                 name: '文章篇数',
                 type: 'line',
                 color: ['#6772e5'],
-                data: [0,0,0,0,0,0,0,0,0,0,1,0,1],
+                data: [0,0,0,0,0,0,0,0,0,0,0,3,3],
                 markPoint: {
                     symbolSize: 45,
                     color: ['#fa755a','#3ecf8e','#82d3f4'],
@@ -715,7 +760,7 @@
                 type: 'pie',
                 radius: '50%',
                 color: ['#6772e5', '#ff9e0f', '#fa755a', '#3ecf8e', '#82d3f4', '#ab47bc', '#525f7f', '#f51c47', '#26A69A'],
-                data: [{"name":"教程","value":1},{"name":"aaaa","value":1}],
+                data: [{"name":"学习","value":3},{"name":"教程","value":3}],
                 itemStyle: {
                     emphasis: {
                         shadowBlur: 10,
@@ -739,7 +784,7 @@
         xAxis: [
             {
                 type: 'category',
-                data: ["sublime","aaaaa"]
+                data: ["破解","算法设计与分析","JET-BRAINS","操作系统","Linux","Sandboxie","sublime"]
             }
         ],
         yAxis: [
@@ -752,7 +797,7 @@
                 type: 'bar',
                 color: ['#82d3f4'],
                 barWidth : 18,
-                data: [1,1],
+                data: [3,2,1,1,1,1,1],
                 markPoint: {
                     symbolSize: 45,
                     data: [{
@@ -848,7 +893,7 @@
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">238</span>&nbsp;字
+                class="white-color">3.2k</span>&nbsp;字
             
             
             

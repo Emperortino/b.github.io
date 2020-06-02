@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tofunny.club/"/>
-  <updated>2020-06-02T07:51:53.057Z</updated>
+  <updated>2020-06-02T09:02:45.089Z</updated>
   <id>http://tofunny.club/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://tofunny.club/2020/06/02/sublime/"/>
     <id>http://tofunny.club/2020/06/02/sublime/</id>
     <published>2020-06-02T03:52:40.000Z</published>
-    <updated>2020-06-02T07:51:53.057Z</updated>
+    <updated>2020-06-02T09:02:45.089Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,7 @@
       
         
         
-          &lt;h1 id=&quot;Sublime3-安装Package-Control&quot;&gt;&lt;a href=&quot;#Sublime3-安装Package-Control&quot; class=&quot;headerlink&quot; title=&quot;Sublime3 安装Package
+          &lt;h1 id=&quot;Sublime3-安装-破解-使用&quot;&gt;&lt;a href=&quot;#Sublime3-安装-破解-使用&quot; class=&quot;headerlink&quot; title=&quot;Sublime3 安装,破解,使用&quot;&gt;&lt;/a&gt;Sublime3 安装,破解,使用&lt;/h1&gt;&lt;h2
         
       
     
@@ -39,16 +39,18 @@
       <category term="教程" scheme="http://tofunny.club/categories/%E6%95%99%E7%A8%8B/"/>
     
     
+      <category term="破解" scheme="http://tofunny.club/tags/%E7%A0%B4%E8%A7%A3/"/>
+    
       <category term="sublime" scheme="http://tofunny.club/tags/sublime/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://tofunny.club/2020/04/13/hello-world/"/>
-    <id>http://tofunny.club/2020/04/13/hello-world/</id>
-    <published>2020-04-13T13:09:37.428Z</published>
-    <updated>2020-04-13T13:56:57.948Z</updated>
+    <title>算法设计与分析（二）</title>
+    <link href="http://tofunny.club/2020/06/01/suan-fa-she-ji-yu-fen-xi-er/"/>
+    <id>http://tofunny.club/2020/06/01/suan-fa-she-ji-yu-fen-xi-er/</id>
+    <published>2020-06-01T08:20:40.000Z</published>
+    <updated>2020-06-02T09:02:20.693Z</updated>
     
     <summary type="html">
     
@@ -56,17 +58,136 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;p&gt;| 算法与设计学习过程&lt;br&gt;| 坚持更新（使用JAVA语言）&lt;/p&gt;
+&lt;h1 id=&quot;递归算法求解矩阵连乘&quot;&gt;&lt;a href=&quot;#递归算法求解矩阵连乘&quot; class=&quot;headerlink&quot;
         
       
     
     </summary>
     
     
-      <category term="aaaa" scheme="http://tofunny.club/categories/aaaa/"/>
+      <category term="学习" scheme="http://tofunny.club/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-      <category term="aaaaa" scheme="http://tofunny.club/tags/aaaaa/"/>
+      <category term="算法设计与分析" scheme="http://tofunny.club/tags/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>算法设计与分析（一）</title>
+    <link href="http://tofunny.club/2020/06/01/suan-fa-she-ji-yu-fen-xi-yi/"/>
+    <id>http://tofunny.club/2020/06/01/suan-fa-she-ji-yu-fen-xi-yi/</id>
+    <published>2020-06-01T02:58:40.000Z</published>
+    <updated>2020-06-02T09:02:38.043Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;| 算法与设计学习过程&lt;br&gt;| 坚持更新（使用JAVA语言）&lt;/p&gt;
+&lt;h1 id=&quot;递归：实现汉诺塔问题&quot;&gt;&lt;a href=&quot;#递归：实现汉诺塔问题&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="学习" scheme="http://tofunny.club/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="算法设计与分析" scheme="http://tofunny.club/tags/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Sandboxie破解</title>
+    <link href="http://tofunny.club/2020/05/21/sandboxie-po-jie/"/>
+    <id>http://tofunny.club/2020/05/21/sandboxie-po-jie/</id>
+    <published>2020-05-21T07:00:25.000Z</published>
+    <updated>2020-06-02T09:02:50.062Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;| Sandboxie安装及破解&lt;br&gt;| 仅供学习使用,请支持正版！！！    &lt;/p&gt;
+&lt;h2 id=&quot;Sandboxie-安装及破解&quot;&gt;&lt;a href=&quot;#Sandboxie-安装及破解&quot; class=&quot;headerlink&quot; title=&quot;Sandboxie
+        
+      
+    
+    </summary>
+    
+    
+      <category term="教程" scheme="http://tofunny.club/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="破解" scheme="http://tofunny.club/tags/%E7%A0%B4%E8%A7%A3/"/>
+    
+      <category term="Sandboxie" scheme="http://tofunny.club/tags/Sandboxie/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux学习（一）</title>
+    <link href="http://tofunny.club/2020/05/20/linux-xue-xi-yi/"/>
+    <id>http://tofunny.club/2020/05/20/linux-xue-xi-yi/</id>
+    <published>2020-05-20T02:59:25.000Z</published>
+    <updated>2020-06-02T09:02:55.348Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;| Linux学习过程&lt;br&gt;| 坚持更新  &lt;/p&gt;
+&lt;h1 id=&quot;Linux系统安装（vm虚拟机安装）&quot;&gt;&lt;a href=&quot;#Linux系统安装（vm虚拟机安装）&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="学习" scheme="http://tofunny.club/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="操作系统" scheme="http://tofunny.club/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="Linux" scheme="http://tofunny.club/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JET-BRAINS 软件破解</title>
+    <link href="http://tofunny.club/2020/05/19/intellij-ruan-jian-po-jie/"/>
+    <id>http://tofunny.club/2020/05/19/intellij-ruan-jian-po-jie/</id>
+    <published>2020-05-19T06:59:25.000Z</published>
+    <updated>2020-06-02T09:03:03.560Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;| JET-BRAINS 软件破解教程&lt;br&gt;| 仅供学习使用，请支持正版！！！  &lt;/p&gt;
+&lt;h1 id=&quot;JET-BRAINS软件永久破解（这里以IDEA为例子）&quot;&gt;&lt;a href=&quot;#JET-BRAINS软件永久破解（这里以IDEA为例子）&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="教程" scheme="http://tofunny.club/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="JET-BRAINS" scheme="http://tofunny.club/tags/JET-BRAINS/"/>
+    
+      <category term="破解" scheme="http://tofunny.club/tags/%E7%A0%B4%E8%A7%A3/"/>
     
   </entry>
   
