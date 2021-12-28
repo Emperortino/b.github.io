@@ -1,0 +1,11 @@
+if hexo-config('footer.icon.animated') {
+	#animate {
+    animation: iconAnimate 1.88s ease-in-out infinite;
+	}
+}
+
+.with-love {
+  display: inline-block;
+  margin: 0 5px;
+  color: #9a6eac;
+}
